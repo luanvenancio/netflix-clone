@@ -60,7 +60,7 @@ body {
             rgba(20, 20, 20, 0.1),
             rgba(20, 20, 20, 1)
         ),
-        url("/img/bg.jpg");
+        url("../img/bg.jpg");
     background-size: cover;
     height: 42.5rem;
 }
